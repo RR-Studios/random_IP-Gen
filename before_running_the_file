@@ -1,0 +1,4 @@
+#Module need for this program to run.
+pip install random
+
+After install the module you are ready to run the program.>>
